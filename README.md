@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm) [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm) [![Javascript-language](https://img.shields.io/badge/Javascript-language-F7DF1E.svg?logo=javascript)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 <!--
 **KrystalY/KrystalY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
